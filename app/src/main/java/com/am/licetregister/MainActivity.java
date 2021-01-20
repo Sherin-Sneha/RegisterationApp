@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     
     // hi this text i added from website
 
+    // hi i am from android studio
     Spinner sp;
     ArrayList arrayList;
     ArrayAdapter arrayAdapter;
