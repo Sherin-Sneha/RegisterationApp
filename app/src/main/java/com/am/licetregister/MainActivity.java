@@ -13,6 +13,8 @@ import android.widget.Spinner;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
+    
+    // hi this text i added from website
 
     Spinner sp;
     ArrayList arrayList;
